@@ -1,0 +1,13 @@
+/* Design tokens */
+:root {
+  color-scheme:light;
+  --bg:#f5f7f4;
+  --sf:#fff;
+  --al:#eef4f0;
+  --pri:#1f5d50;
+  --dk:#16473d;
+  --tx:#17332d;
+  --mu:#667a74;
+  --bd:#c6d5cf;
+  --ok:#e3f1ea;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)
+}
